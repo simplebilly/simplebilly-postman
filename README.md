@@ -18,7 +18,7 @@ Official Postman Collection client for the [SimpleBilly API](https://simplebilly
 
 ## Installation
 
-The package is published to the Postman Collection package registry (and to [GitHub Packages](https://github.com/orgs/simplebilly/packages) — free for public packages).
+The package is published to the Postman Collection package registry (and to [GitHub Packages](https://github.com/orgs/simplebilly/packages)).
 See the [Releases](https://github.com/simplebilly/simplebilly-postman/releases) page for the list
 of versions and registry coordinates.
 
